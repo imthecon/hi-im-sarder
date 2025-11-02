@@ -1,4 +1,4 @@
-# Sarder Tanjilur
+# Sarder Rahman
 • I’m currently working on a **React Native mobile application dedicated to changing to the way high-schoolers perceive their life**.<br>• I’m currently **learning JavaScript** and **expanding on my skills in Python, HTML, CSS, and Java**.<br>• Ask me about how I started getting into programming and my expectations about my future.<br>• Did you know that cats are cool and I'm looking forward to having one as soon as I move out of my current tiny apartment? Now you do...
 
 ## Here's my current tech stack:
